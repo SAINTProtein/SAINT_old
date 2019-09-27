@@ -3,7 +3,7 @@ This repository contains the official implementation of our paper **SAINT**: **S
 
 # Download the dataset
 ##### CB6133 dataset and CB513 dataset
-Please download the files *cullpdb+profile_5926_filtered.npy.gz* and *cb513+profile_split1.npy.gz* respectively from [this website](http://www.princeton.edu/~jzthree/datasets/ICML2014/) for training the model on the filtered version of CB6133 dataset(duplicates removed) and testing it on CB513 dataset respectively. Rename the files as **psp.npy.gz** and **CB513.npy.gz** respectively:
+Please download the files *cullpdb+profile_5926_filtered.npy.gz* and *cb513+profile_split1.npy.gz* from [this website](http://www.princeton.edu/~jzthree/datasets/ICML2014/) for training the model on the filtered version of CB6133 dataset(duplicates removed) and testing it on CB513 dataset and rename the files as **psp.npy.gz** and **CB513.npy.gz** respectively:
 ##### CASP10 and CASP11 dataset
 To test the model on CASP10 and CASP11 benchmark-datasets, please download the files from [this website](https://drive.google.com/drive/folders/1404cRlQmMuYWPWp5KwDtA7BPMpl-vF-d).
 
