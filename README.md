@@ -31,7 +31,7 @@ Various parameters can be changed for training or evaluating the model in the fi
 
 # Running pretrained model
 ##### Evaluation
-To run the pretrained model please download the *saint_pssp.h5* from [this link](https://drive.google.com/open?id=1dV5T1VUzVzU8qJD1W6wEEET28eTIPKfM). and place it in the *./SAINT* folder.
+To run the pretrained model please download the file *saint_pssp.h5* from [this link](https://drive.google.com/open?id=1dV5T1VUzVzU8qJD1W6wEEET28eTIPKfM) and place it in the *./SAINT* folder.
 Then run the following command:
 > python3 evaluate.py
 ##### Attention weights visualization
