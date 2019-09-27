@@ -1,5 +1,5 @@
 # SAINT
-This repository contains the official implementation of our paper ***SAINT**: **S**elf-**A**ttention Augmented **I**nception-Inside-Inception **N**e**t**work Improves Protein Secondary Structure Prediction.*
+This repository contains the official implementation of our paper **SAINT**: **S**elf-**A**ttention Augmented **I**nception-Inside-Inception **N**e**t**work Improves Protein Secondary Structure Prediction.
 
 # Download the dataset
 ##### CB6133 dataset and CB513 dataset
