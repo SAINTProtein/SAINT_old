@@ -1,6 +1,19 @@
-## This repository is not maintained anymore. This contains codes for older experiments. For latest experiments and relevant codes please go to this repository(SAINT).
+## This repository is not maintained anymore. This contains codes for older experiments. For codes relevant to latest experiments please go to this repository(SAINT).
+If you use any part of this repository, we shall be obliged if you site our paper [**SAINT**: **S**elf-**A**ttention Augmented **I**nception-Inside-Inception **N**e**t**work Improves Protein Secondary Structure Prediction](https://www.biorxiv.org/content/10.1101/786921v1).
+
+The BibTeX for our paper:
+>
+@article{uddin2019saint,
+  title={SAINT: self-attention augmented inception-inside-inception network improves protein secondary structure prediction},
+  author={Uddin, Mostofa Rafid and Mahbub, Sazan and Rahman, Md Saifur and Bayzid, Md Shamsuzzoha},
+  journal={bioRxiv},
+  pages={786921},
+  year={2019},
+  publisher={Cold Spring Harbor Laboratory}
+}
+>
 # SAINT
-This repository contains the official implementation of our paper **SAINT**: **S**elf-**A**ttention Augmented **I**nception-Inside-Inception **N**e**t**work Improves Protein Secondary Structure Prediction.
+This repository contains the official (older) implementation of our paper **SAINT**: **S**elf-**A**ttention Augmented **I**nception-Inside-Inception **N**e**t**work Improves Protein Secondary Structure Prediction.
 
 # Download the dataset
 ##### CB6133 dataset and CB513 dataset
