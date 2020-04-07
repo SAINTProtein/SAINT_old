@@ -1,3 +1,4 @@
+## This repository is not maintained anymore. This contains codes for older experiments. For latest experiments and relevant codes please go to this repository(SAINT).
 # SAINT
 This repository contains the official implementation of our paper **SAINT**: **S**elf-**A**ttention Augmented **I**nception-Inside-Inception **N**e**t**work Improves Protein Secondary Structure Prediction.
 
